@@ -28,7 +28,6 @@ A clean, minimalist task management system built with Laravel 10, Alpine.js, Tai
 1. Clone the repository:
    ```bash
    git clone  https://github.com/Denada-Bali/Task-List-Project-PHP-Larvel-with-blade.git
-   cd laravel-task-list
    
 2. Configure environment:
    ```bash
